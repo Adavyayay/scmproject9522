@@ -1,1 +1,2 @@
-THIS WOULD START A CONFLICT
+hello 
+this should start conflict
